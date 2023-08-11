@@ -1,1 +1,1 @@
-# shortcut
+Shortcut for everything

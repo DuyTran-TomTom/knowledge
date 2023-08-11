@@ -1,1 +1,3 @@
-Shortcut for everything
+# knowledge
+
+Contains random knowledges like tutorial, shortcuts
